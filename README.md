@@ -11,6 +11,7 @@ To report a bug, simply go to the `Issues` tab and click `New issue`. Make sure 
 - RandomKuchen (German)
 - Slimy (Ukrainian and Russian)
 - hellreign (Russian)
+- ZhuinZ (Literary, Traditional and Simplified Chinese)
 
 ## Contributing with Translations
 1. Click `Fork` above and then `Create fork`
