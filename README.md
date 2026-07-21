@@ -6,12 +6,13 @@ This repository is an issue tracker for Tool Trims and also contains its transla
 To report a bug, simply go to the `Issues` tab and click `New issue`. Make sure to mention the version of Tool Trims and Minecraft you're using.
 
 ## Translation Credits
+- RandomKuchen (German)
 - BlueSheep (Japanese)
 - ESSENTIALS_GAMES (Polish)
-- RandomKuchen (German)
 - Slimy (Ukrainian and Russian)
 - hellreign (Russian)
 - ZhuinZ (Literary, Traditional and Simplified Chinese)
+- aegeada (Turkish)
 
 ## Contributing with Translations
 1. Click `Fork` above and then `Create fork`
