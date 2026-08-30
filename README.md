@@ -3,7 +3,7 @@
 
 This repository is an issue tracker for Tool Trims and also contains its translations. You can download the full data pack on [Modrinth](https://modrinth.com/datapack/tool-trims) either as a data and resource pack combo or as a jar for modloaders.
 
-To report a bug, simply go to the `Issues` tab and click `New issue`. Make sure to mention the version of Tool Trims and Minecraft you're using.
+To report a bug, simply go to the `Issues` tab and click `New issue`. Make sure to mention the version of Minecraft you're using. To contribute to the localization, follow [the steps](https://github.com/thejoefly/ToolTrims/edit/main/README.md#contributing-to-localization) below.
 
 ## Localization Credits
 - RandomKuchen (German)
@@ -31,7 +31,7 @@ To report a bug, simply go to the `Issues` tab and click `New issue`. Make sure 
 
 Language variants with an asterisk (*) need a revision or are currently using the translations of a similar variant. Please make a contribution if you think there are any mistakes!
 
-## Contributing with Translations
+## Contributing to Localization
 1. Click `Fork` above and then `Create fork`
 2. On your fork, press `.` to edit it in your browser
 3. Go to the folder `assets/tooltrims/lang` where you'll find a json file for each language, you can find the in-game locale code of your language in the [Minecraft Wiki](https://minecraft.wiki/w/Language#Languages)
