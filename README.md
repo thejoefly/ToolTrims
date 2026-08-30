@@ -5,7 +5,7 @@ This repository is an issue tracker for Tool Trims and also contains its transla
 
 To report a bug, simply go to the `Issues` tab and click `New issue`. Make sure to mention the version of Tool Trims and Minecraft you're using.
 
-## Translation Credits
+## Localization Credits
 - RandomKuchen (German)
 - BlueSheep (Japanese)
 - ESSENTIALS_GAMES (Polish)
@@ -13,6 +13,23 @@ To report a bug, simply go to the `Issues` tab and click `New issue`. Make sure 
 - hellreign (Russian)
 - ZhuinZ (Literary, Traditional and Simplified Chinese)
 - aegeada (Turkish)
+
+## Localization Progress
+- Deutsch - [Deutschland](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/de_de.json)
+- English - [US](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/en_us.json), [United Kingdom](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/en_us.json)
+- Español - [España](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/es_es.json), *[Argentina](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/es_ar.json), *[México](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/es_mx.json)
+- Français - [France](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/fr_fr.json), *[Canada](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/fr_ca.json)
+- Português - [Portugal](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/pt_pt.json), *[Brasil](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/pt_br.json)
+- Polski - [Polska](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/pl_pl.json)
+- Русский - *[Україна](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/ru_ru.json)
+- Türkçe - [Türkiye](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/tr_tr.json)
+- Українська - *[Россия](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/uk_ua.json)
+- 日本語 - [日本](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/ja_jp.json)
+- 简体中文 - [中国大陆](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/zh_cn.json)
+- 繁體中文 - [香港特別行政區](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/zh_hk.json), [台灣](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/zh_tw.json)
+- 文言 - [華夏](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/lzh.json)
+
+Language variants with an asterisk (*) need a revision or are currently using the translations of a similar variant. Please make a contribution if you think there are any mistakes!
 
 ## Contributing with Translations
 1. Click `Fork` above and then `Create fork`
