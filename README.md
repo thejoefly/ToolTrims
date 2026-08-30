@@ -5,7 +5,7 @@ This repository is an issue tracker for Tool Trims and also contains its transla
 
 To report a bug, simply go to the `Issues` tab and click `New issue`. Make sure to mention the version of Minecraft you're using.
 
-To contribute to the localization, follow [the steps](https://github.com/thejoefly/ToolTrims/edit/main/README.md#contributing-to-localization) below.
+To contribute to the localization, follow [the steps](https://github.com/thejoefly/ToolTrims#contributing-to-localization) below.
 
 ## Localization Credits
 - RandomKuchen (German)
