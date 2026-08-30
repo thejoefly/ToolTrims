@@ -3,7 +3,9 @@
 
 This repository is an issue tracker for Tool Trims and also contains its translations. You can download the full data pack on [Modrinth](https://modrinth.com/datapack/tool-trims) either as a data and resource pack combo or as a jar for modloaders.
 
-To report a bug, simply go to the `Issues` tab and click `New issue`. Make sure to mention the version of Minecraft you're using. To contribute to the localization, follow [the steps](https://github.com/thejoefly/ToolTrims/edit/main/README.md#contributing-to-localization) below.
+To report a bug, simply go to the `Issues` tab and click `New issue`. Make sure to mention the version of Minecraft you're using.
+
+To contribute to the localization, follow [the steps](https://github.com/thejoefly/ToolTrims/edit/main/README.md#contributing-to-localization) below.
 
 ## Localization Credits
 - RandomKuchen (German)
