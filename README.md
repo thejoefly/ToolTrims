@@ -31,7 +31,7 @@ To contribute to the localization, follow [the steps](https://github.com/thejoef
 - 繁體中文 - [香港特別行政區](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/zh_hk.json), [台灣](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/zh_tw.json)
 - 文言 - [華夏](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/lzh.json)
 
-Language variants with an asterisk (*) need a revision or are currently using the translations of a similar variant. Please make a contribution if you think there are any mistakes!
+Language variants with an asterisk (*) need a revision or are currently using the translations of a similar variant. Please make a contribution if you think there are any mistakes.
 
 ## Contributing to Localization
 1. Click `Fork` above and then `Create fork`
