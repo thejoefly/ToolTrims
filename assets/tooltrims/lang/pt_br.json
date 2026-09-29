@@ -1,6 +1,4 @@
 {
-    "tooltrims.title": "Tool Trims",
-
     "advancements.adventure.shiny_tools.title": "Ferramentas brilhantes",
     "advancements.adventure.shiny_tools.description": "Enfeite uma ferramenta numa Bancada de Ferraria",
     "advancements.adventure.tools_of_all_styles.title": "A mais alta classe",
@@ -12,8 +10,9 @@
     "trim_pattern.tooltrims.charge": "Enfeite de Carga",
     "trim_pattern.tooltrims.frost":  "Enfeite de Geada",
 
-    "tooltip.linear_template": "Molde de Ferramenteiro de Linha\uE035\uD000\uE005",
-    "tooltip.tracks_template": "Molde de Ferramenteiro de Faixas\uE035\uD001\uE005",
-    "tooltip.charge_template": "Molde de Ferramenteiro de Carga\uE035\uD002\uE005",
-    "tooltip.frost_template":  "Molde de Ferramenteiro de Geada\uE034\uD003\uE005"
+    "unused.tooltrims.title": "Tool Trims",
+    "unused.tooltip.linear_template": "Molde de Ferramenteiro de Linha",
+    "unused.tooltip.tracks_template": "Molde de Ferramenteiro de Faixas",
+    "unused.tooltip.charge_template": "Molde de Ferramenteiro de Carga",
+    "unused.tooltip.frost_template":  "Molde de Ferramenteiro de Geada"
 }

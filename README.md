@@ -14,14 +14,15 @@ To contribute to the localization, follow [the steps](https://github.com/thejoef
 - Slimy (Ukrainian and Russian)
 - hellreign (Russian)
 - ZhuinZ (Literary, Traditional and Simplified Chinese)
-- aegeada (Turkish)
+- 1unarea (Turkish)
+- MeiaQuatru (Brazilian Portuguese)
 
 ## Localization Progress
 - Deutsch - [Deutschland](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/de_de.json)
 - English - [US](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/en_us.json), [United Kingdom](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/en_us.json)
 - Español - [España](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/es_es.json), *[Argentina](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/es_ar.json), *[México](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/es_mx.json)
 - Français - [France](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/fr_fr.json), *[Canada](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/fr_ca.json)
-- Português - [Portugal](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/pt_pt.json), *[Brasil](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/pt_br.json)
+- Português - [Portugal](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/pt_pt.json), [Brasil](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/pt_br.json)
 - Polski - [Polska](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/pl_pl.json)
 - Русский - *[Україна](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/ru_ru.json)
 - Türkçe - [Türkiye](https://github.com/thejoefly/ToolTrims/blob/main/assets/tooltrims/lang/tr_tr.json)
